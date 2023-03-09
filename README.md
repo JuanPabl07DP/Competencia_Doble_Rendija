@@ -1,4 +1,10 @@
 # COMPETENCIA DE LA DOBLE RENDIJA
+
+Miembros del grupo: 
+-Juan Pablo Daza Pereira 
+-Miguel Ángel González Mahecha
+-Hann Jang
+
 El experimento de la doble rendija encierra muchos de los misterios del mundo cuántico.
 
 En grupos de máximo tres personas debe reproducir de la mejor manera posible el experimento de la doble rendija (usando un laser, cartón paja y papel aluminio, entre otros). Describa el experimento y explique con una simulación simple usando su librería. Agregue esta descripción a la documentación de la librería.
